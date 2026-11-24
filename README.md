@@ -1,6 +1,6 @@
 #### "Simple is Better than Complex".
 
-<!-- * 🖥️  Working on [Arcadia](https://arcadiasl.org) -->
+* 🖥️  Building [Ziph](https://ziph.dev)
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer and love Backend ([Honojs](hono.dev) and [Golang](go.dev)) 🤪🤪 and use [Svelte](svelte.dev) more😂😂
 
